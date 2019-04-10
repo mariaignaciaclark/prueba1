@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+body{
+  font-family: 'Roboto Mono', monospace;
+}
+
+.jumbotron{
+  background-image: linear-gradient(to bottom,rgba(200,200,200,0.2)0%, rgba(200,200,200,1)100%),
+  url("https://www.onlygfx.com/wp-content/uploads/2016/10/pink-watercolor-1-1.jpg");
+}
+{
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
